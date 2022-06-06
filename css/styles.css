@@ -1,3 +1,5 @@
+/* ========== COLORS & FONTS ========== */
+
 :root {
     --color-main: #212121;
     --color-accent: #2196F3;
@@ -12,6 +14,11 @@
     --font-main: 'Roboto';
     --font-logo: 'Raleway';
 }
+
+/* ========== COLORS & FONTS ========== */
+
+
+/* ========== COMPONENTS ========== */
 
 
 /* basic - start */
@@ -78,10 +85,11 @@ address {font-style: normal;}
     padding-bottom: 94px;
 }
 
-/* basic - end */
+/* ========== COMPONENTS ========== */
 
 
-/* header - start */
+
+/* ========== HEADER ========== */
 
 header {border-bottom: 1px solid #ECECEC;}
 
@@ -138,10 +146,11 @@ nav {margin-right: auto;}
     color: var(--color-accent);
 }
 
-/* header - end */
+/* ========== HEADER ========== */
 
 
-/* hero - start */
+
+/* ========== HERO ========== */
 
 .hero {
     padding-top: 200px;
@@ -186,10 +195,11 @@ nav {margin-right: auto;}
     background-color: #188CE8;
 }
 
-/* hero - end */
+/* ========== HERO ========== */
 
 
-/* skills - start */
+
+/* ========== SKILLS ========== */
 
 .skills-list {
     font-size: 14px;
@@ -214,10 +224,11 @@ nav {margin-right: auto;}
     color: var(--color-secondary);
 }
 
-/* skills - end */
+/* ========== SKILLS ========== */
 
 
-/* whatwedo - start */
+
+/* ========== WHATWEDO ========== */
 
 .whatwedo {
     padding-top: 0;
@@ -238,10 +249,11 @@ nav {margin-right: auto;}
     gap: 30px;
 }
 
-/* whatwedo - end */
+/* ========== WHATWEDO ========== */
 
 
-/* team - start */
+
+/* ========== TEAM ========== */
 
 .team {
     background-color: var(--background-color-light);
@@ -293,10 +305,11 @@ nav {margin-right: auto;}
     color: var(--color-secondary);
 }
 
-/* team - end */
+/* ========== TEAM ========== */
 
 
-/* projects - start */
+
+/* ========== PROJECTS ========== */
 
 .projects-filter {
     display: flex;
@@ -363,10 +376,10 @@ nav {margin-right: auto;}
     color: var(--color-secondary);
 }
 
-/* projects - end */
+/* ========== PROJECTS ========== */
 
 
-/* footer - start */
+/* ========== FOOTER ========== */
 
 footer {
     padding-top: 60px;
@@ -408,4 +421,4 @@ footer {
     text-decoration: underline;
 }
 
-/* footer - end */
+/* ========== FOOTER ========== */
