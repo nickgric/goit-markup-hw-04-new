@@ -20,9 +20,6 @@
 
 /* ========== COMPONENTS ========== */
 
-
-/* basic - start */
-
 * {
     margin: 0;
     padding: 0;
@@ -91,7 +88,11 @@ address {font-style: normal;}
 
 /* ========== HEADER ========== */
 
-header {border-bottom: 1px solid #ECECEC;}
+
+
+header {
+    border-bottom: 1px solid #ECECEC;
+}
 
 .header {
     display: flex;
