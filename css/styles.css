@@ -137,6 +137,11 @@ nav {margin-right: auto;}
     padding-bottom: 32px;
 }
 
+.header-contacts-item {
+    display: flex;
+    align-items: center;
+}
+
 .header-nav-link:hover,
 .header-nav-link:focus,
 .header-nav-link-active,
